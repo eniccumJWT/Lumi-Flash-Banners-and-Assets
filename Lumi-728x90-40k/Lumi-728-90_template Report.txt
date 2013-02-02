@@ -1,0 +1,39 @@
+﻿Lumi-728-90_template.swf Movie Report
+--------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1201    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2013-02-01T15:18:56-05:00</xmp:CreateDate> <xmp:MetadataDate>2013-02-01T19:30:28-05:00</xmp:MetadataDate> <xmp:ModifyDate>2013-02-01T19:30:28-05:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:E4664F5C3D206811822AB93117AA88C3</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:E4664F5C3D206811822AB93117AA88C3</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:F329B06419206811822AB93117AA88C3</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:C6A84C5126206811822AB93117AA88C3</stRef:instanceID> <stRef:documentID>xmp.did:F329B06419206811822AB93117AA88C3</stRef:documentID> <stRef:originalDocumentID>xmp.did:F329B06419206811822AB93117AA88C3</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          31380          31380    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1            249           493                     0
+
+Symbol               Shape Bytes    Text Bytes    ActionScript Bytes
+-----------------    -----------    ----------    ------------------
+mcText_illinois               41             0                     0
+mcText_discover               61             0                     0
+mcText_coffee                 44             0                     0
+mcText_everything             54             0                     0
+mcText_great                  60             0                     0
+
+Font Name        Bytes         Characters
+-------------    ----------    ----------
+PTSans-Narrow          4342     ,.6BCDEGILNOPRSVaefhiklmorstu é’
+
+Bitmap                  Compressed    Original      Compression
+--------------------    ----------    ----------    -----------
+Lumi-728x90-bkg.png           9454        262080    JPEG Quality=80
+txtImg_xs.png                10082        150080    Lossless
+Lumi-728x90-logo.png          2492          7424    Lossless
+Lumi-728x90-usa.png           2433          7788    Lossless
+
+
+
+

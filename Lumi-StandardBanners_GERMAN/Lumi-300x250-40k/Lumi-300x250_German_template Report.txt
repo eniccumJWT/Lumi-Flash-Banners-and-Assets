@@ -1,0 +1,39 @@
+﻿Lumi-300x250_German_template.swf Movie Report
+----------------------------------------------
+
+Metadata
+--------
+Bytes         Value
+----------    -----
+      1223    <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"> <rdf:Description rdf:about="" xmlns:xmp="http://ns.adobe.com/xap/1.0/"> <xmp:CreatorTool>Adobe Flash Professional CS6 - build 481</xmp:CreatorTool> <xmp:CreateDate>2013-02-01T14:12:53-05:00</xmp:CreateDate> <xmp:MetadataDate>2013-02-01T19:30:06-05:00</xmp:MetadataDate> <xmp:ModifyDate>2013-02-01T19:30:06-05:00</xmp:ModifyDate> </rdf:Description> <rdf:Description rdf:about="" xmlns:dc="http://purl.org/dc/elements/1.1/"> <dc:format>application/x-shockwave-flash</dc:format> </rdf:Description> <rdf:Description rdf:about="" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"> <xmpMM:InstanceID>xmp.iid:E2664F5C3D206811822AB93117AA88C3</xmpMM:InstanceID> <xmpMM:DocumentID>xmp.did:E2664F5C3D206811822AB93117AA88C3</xmpMM:DocumentID> <xmpMM:OriginalDocumentID>xmp.did:0680117407206811822AB93117AA88C3</xmpMM:OriginalDocumentID> <xmpMM:DerivedFrom rdf:parseType="Resource"> <stRef:instanceID>xmp.iid:E1664F5C3D206811822AB93117AA88C3</stRef:instanceID> <stRef:documentID>xmp.did:0980117407206811822AB93117AA88C3</stRef:documentID> <stRef:originalDocumentID>xmp.did:0680117407206811822AB93117AA88C3</stRef:originalDocumentID> </xmpMM:DerivedFrom> </rdf:Description> </rdf:RDF> 
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1          38292          38292    Scene 1 (AS 2.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0           607                     0
+
+Symbol             Shape Bytes    Text Bytes    ActionScript Bytes
+---------------    -----------    ----------    ------------------
+mcText_illinois             43             0                     0
+mcText_entdecke             56             0                     0
+mcText_das                  44             0                     0
+mcText_der                  48             0                     0
+mcText_zu                   57             0                     0
+
+Font Name        Bytes         Characters
+-------------    ----------    ----------
+PTSans-Narrow          4424     ,.6BCDEGILNOPRSVaefhiklmorstu é’
+
+Bitmap                   Compressed    Original      Compression
+---------------------    ----------    ----------    -----------
+Lumi-300x250-bkg.png          18191        300000    JPEG Quality=75
+txtImg_xs.png                  7489        136300    Lossless
+Lumi-300x250-logo.png          3260         10920    Lossless
+Lumi-300x250-usa.png           2479          7788    Lossless
+
+
+
+
